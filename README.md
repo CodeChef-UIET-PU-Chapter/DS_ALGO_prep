@@ -50,3 +50,4 @@
 | 4 | [Water Connection Problem](https://practice.geeksforgeeks.org/problems/water-connection-problem/0) |None|
 | 5 | [Police Catch Thieves](https://www.geeksforgeeks.org/policemen-catch-thieves/) |None|
 | 6 | [Minimum swaps for Bracket Balance](https://practice.geeksforgeeks.org/problems/minimum-swaps-for-bracket-balancing/0) |None|
+| 7 | [Fitting Shelves Problem](https://www.geeksforgeeks.org/fitting-shelves-problem/) |None|
