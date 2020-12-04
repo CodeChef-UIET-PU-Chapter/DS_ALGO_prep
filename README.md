@@ -51,3 +51,4 @@
 | 5 | [Police Catch Thieves](https://www.geeksforgeeks.org/policemen-catch-thieves/) |None|
 | 6 | [Minimum swaps for Bracket Balance](https://practice.geeksforgeeks.org/problems/minimum-swaps-for-bracket-balancing/0) |None|
 | 7 | [Fitting Shelves Problem](https://www.geeksforgeeks.org/fitting-shelves-problem/) |None|
+| 8 | [Assign Mice Holes](https://practice.geeksforgeeks.org/problems/assign-mice-holes3053/1) |None|
